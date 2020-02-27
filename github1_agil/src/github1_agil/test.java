@@ -1,10 +1,10 @@
 package github1_agil;
 
-public class main 
+public class test
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("jyo");
+		System.out.println("hello");
 		
 	}
 
